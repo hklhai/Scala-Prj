@@ -30,5 +30,6 @@ object Sample {
 
   sayHello("haha", middleName = "nihao", lastName = "xixi")
                                                   //> res4: String = name ishahanihaoxixi
+                                                  
 
 }
